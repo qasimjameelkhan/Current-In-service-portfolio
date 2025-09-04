@@ -83,8 +83,6 @@ npm run dev
 ```
 The app will be available at http://localhost:5173.
 
----
 
-## 🔗 Assets
-Assets used in the project can be found [here](https://github.com/user-attachments/files/19820923/public.zip)
+//github.com/user-attachments/files/19820923/public.zip)
 
