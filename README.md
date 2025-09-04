@@ -2,7 +2,8 @@
 
 A modern, animated 3D developer portfolio built with React, Three.js, TailwindCSS, and motion effects — designed to help you stand out and showcase your skills creatively.
 
-![3d Portfolio Screenshot GitHub](https://github.com/user-attachments/assets/9b0ed20e-074e-4f2a-81d8-20c9da751e9e)
+<img width="1792" height="908" alt="image" src="https://github.com/user-attachments/assets/aa93ca10-ddbf-4a2f-b882-211473f860fe" />
+
 
 ---
 
@@ -87,8 +88,3 @@ The app will be available at http://localhost:5173.
 ## 🔗 Assets
 Assets used in the project can be found [here](https://github.com/user-attachments/files/19820923/public.zip)
 
----
-
-## 📬 Contact Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/qasim-jadoon/reels/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qasim-jadoon/) 
